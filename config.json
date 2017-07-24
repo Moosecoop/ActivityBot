@@ -1,0 +1,28 @@
+{
+    "discord": {
+        "token": "MzM4ODc1Mjg3NTMyMjA4MTM4.DFbxuA.4lAMvqcOfJCiSNmupDLzvEvvMzw",
+        "clientID": "338875287532208138",
+        "name": "Activity Bot",
+        "discrim_raw": "8766",
+        "discrim": "#8766",
+        "username": "Activity Bot#8766",
+        "invite": "https://discordapp.com/oauth2/authorize?client_id=338875287532208138&scope=bot&permissions=85120",
+        "owner":{
+            "id":"199621462586425346",
+            "name":"Moosecoop",
+            "discrim":"#3054",
+            "name_raw":"Moosecoop#3054"
+        },
+        "prefix":"_"
+    },
+    "firebase": {
+        "auth": {
+            "apiKey": "AIzaSyBf5sGwyDniiSwTehLjfwfzEVPeHzmZsro",
+            "authDomain": "moosebot-1d8d0.firebaseapp.com",
+            "databaseURL": "https://moosebot-1d8d0.firebaseio.com",
+            "projectId": "moosebot-1d8d0",
+            "storageBucket": "moosebot-1d8d0.appspot.com",
+            "messagingSenderId": "907758991808"
+        }
+    }
+}
